@@ -22,3 +22,6 @@ tqdm>=4.66.0
 
 # Dev / Testing
 pytest>=8.0.0
+
+#UI
+streamlit>=1.35.0
