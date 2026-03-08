@@ -1,5 +1,5 @@
 # 🛩️ DAL-Aware Agentic RAG for DO-178C Compliance
-
+![CI](https://github.com/YashVermaTech/dal-aware-rag/actions/workflows/ci.yml/badge.svg)
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
